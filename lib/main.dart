@@ -19,17 +19,17 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         backgroundColor: Colors.teal,
         body: SafeArea(
-          child: Column(
+          child: Row(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
               Container(
                 height: 50.0,
-                width: 100.0,
+                width: 50.0,
                 color: Colors.white,
                 child: const Text('Container 1'),
               ),
               const SizedBox(
-                height: 20.0,
+                width: 10.0,
               ),
               Container(
                 height: 50.0,
