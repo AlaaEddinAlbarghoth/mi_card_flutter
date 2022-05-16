@@ -28,6 +28,9 @@ class MyApp extends StatelessWidget {
                 color: Colors.white,
                 child: const Text('Container 1'),
               ),
+              const SizedBox(
+                height: 20.0,
+              ),
               Container(
                 height: 50.0,
                 width: 100.0,
