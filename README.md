@@ -1,6 +1,12 @@
-# mi_card_flutter
+# My Card App
 
 https://www.appbrewery.co/
+
+## Screen 
+<p align="center">
+<img src="https://github.com/AlaaEddinAlbarghoth/mi_card_flutter/blob/master/images/ss.png" width="17%"/>
+</p>
+
 
 ## Getting Started
 
